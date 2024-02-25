@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LogInFirebase</string>
+    <string name="prefs_file">com.example.loginfirebase.PREFERENCE_FILE_KEY</string>
 </resources>
